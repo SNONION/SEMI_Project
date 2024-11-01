@@ -2,8 +2,27 @@
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
 
-	<entry key="">
+	<entry key="listCount">
+	
+	    SELECT COUNT(*) COUNT
+	    FROM UNIONBOARD
+	    WHERE STATUS = 'Y'
+	
 	
 	</entry>
+	
+	<entry key="selectList">
+	
+	  
+	   
+	
+	
+	
+	
+	
+	</entry>
+	
+	
+	
 
 </properties>
